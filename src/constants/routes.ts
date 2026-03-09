@@ -3,8 +3,9 @@
 export const APP_ROUTES = {
   home: "/",
   products: "/products",
-  categories: "/categories",  // ADD THIS
+  categories: "/categories",
   cart: "/cart",
+  checkout: "/checkout", // ADD THIS
   wishlist: "/wishlist",
   signin: "/signin",
   signup: "/signup",
